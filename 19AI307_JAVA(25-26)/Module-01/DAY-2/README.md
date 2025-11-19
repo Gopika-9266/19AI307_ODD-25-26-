@@ -47,7 +47,7 @@ Developed by: Gopika R
 Register Number: 212222240031
 ```
 
-## Sourcecode.java:
+## SOURCE CODE:
 ```
 import java.util.*;
 public class Demo
@@ -75,5 +75,6 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
