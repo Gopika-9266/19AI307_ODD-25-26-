@@ -30,7 +30,7 @@ Developed by: Gopika R
 Register Number: 212222240031
 ```
 
-## Sourcecode.java:
+## SOURCE CODE:
 ```
 import java.util.*;
 public class Main
@@ -54,6 +54,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
 
 
